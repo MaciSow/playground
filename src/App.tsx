@@ -9,7 +9,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit files and save to reload.
+          Where are you my conflicts
         </p>
       </header>
       <Button text='Hello'/>
