@@ -5,6 +5,7 @@ type ButtonProps = {
     text?: string;
 }
 
-const Button = ({text}: ButtonProps) => <button className='normal magic wide'>{text}</button>
+
+const Button = ({text}: ButtonProps) => <button className='normal magic ultra-wide'>{text}</button>
 
 export default Button;

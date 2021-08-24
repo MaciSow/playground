@@ -3,8 +3,9 @@
     color: aqua;
 }
 
-.wide{
-    width: 150px;
+.ultra-wide{
+    width: 100%;
+    margin: 16px 0 !important;
 }
 
 .normal{
