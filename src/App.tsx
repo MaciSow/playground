@@ -8,7 +8,7 @@ function App() {
         <div className="App">
             <header className="App-header">
                 <img src={logo} className="App-logo" alt="logo"/>
-                <p>Edit and save to reload.</p>
+                <p>Have a nice day</p>
             </header>
             <Button text='Hello'/>
         </div>
