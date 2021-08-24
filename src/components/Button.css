@@ -5,3 +5,12 @@
 .wide{
     width: 150px;
 }
+
+.normal{
+    outline: none;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+    border-radius: 8px;
+    margin: 16px;
+}
